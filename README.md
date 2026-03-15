@@ -73,6 +73,9 @@ After launch, the data told a clear story:
 4. Community-building is powerful, but needs support from in-product loops
 5. Knowing when to pivot or shut down is a strength, not a failure
 
+**Designs**
+![Screenshot 1](./Designs/1.png)
+
 🏷️ **Tags**
 
 Mobile Gaming · PvP · Android · Real-time Multiplayer · India · Product Management · Go-to-Market · Community Building · Monetization · Sunset
