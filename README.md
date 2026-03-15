@@ -73,8 +73,23 @@ After launch, the data told a clear story:
 4. Community-building is powerful, but needs support from in-product loops
 5. Knowing when to pivot or shut down is a strength, not a failure
 
-**Designs**
+💡**Designs**
+
 ![Screenshot 1](./Designs/1.png)
+
+![Screenshot 1](./Designs/2.png)
+
+![Screenshot 1](./Designs/3.png)
+
+![Screenshot 1](./Designs/4.png)
+
+![Screenshot 1](./Designs/5.png)
+
+![Screenshot 1](./Designs/6.png)
+
+![Screenshot 1](./Designs/7.png)
+
+![Screenshot 1](./Designs/8.png)
 
 🏷️ **Tags**
 
