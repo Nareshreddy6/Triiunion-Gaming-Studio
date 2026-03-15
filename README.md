@@ -25,6 +25,7 @@ Culturally themed characters, maps, and seasonal events
 Optimized for low-end Android devices from day one
 
 **Core Features**
+
 **Feature	Details**
 ⚡ Fast Matchmaking	Under 10 seconds
 📦 Lightweight Assets	Offline fallback support
