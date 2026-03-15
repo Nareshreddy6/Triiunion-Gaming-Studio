@@ -3,10 +3,10 @@ Led end-to-end product lifecycle  user research, persona definition, MVP scoping
 
 ------------------------------- x ------------------------------------------x ------------------------------- x ------------------------------------------x 
 
-🎮** Triiunion Gaming Studio**
+🎮 **Triiunion Gaming Studio**
 A culturally localized, real-time multiplayer PvP mobile game built for Indian audiences — shipped by a lean team, and sunset post-launch after honest assessment of traction and market fit.
 
-🧠** Overview**
+🧠**Overview**
 Indian mobile gamers are underserved by global titles that feel culturally disconnected and perform poorly on low-end devices. Triiunion Gaming Studio set out to change that — building a real-time PvP action game tailored to local themes, local hardware, and local moments.
 
 Despite strong execution and a passionate beta community, post-launch data revealed challenges with retention and organic growth. The team made the deliberate decision to sunset the game and document the learnings.
@@ -31,7 +31,7 @@ Optimized for low-end Android devices from day one
 🎉 Festival IAPs	Cosmetic bundles tied to Indian festivals & local events
 🤝 Community	Discord + Instagram integration
 
-🧭** My Role**
+🧭**My Role**
 1. Product Lead — end-to-end ownership from concept to sunset.
 2. Defined product vision and execution roadmap
 3. Led market research, MVP scoping, and core game design
@@ -41,13 +41,13 @@ Optimized for low-end Android devices from day one
 7. Ran closed beta testing with feedback loops via Discord and Instagram
 8. Led post-launch analysis and made the call to sunset based on performance data
 
-✅** What Worked**
+✅**What Worked**
 1. Shipped a real-time PvP game that ran smoothly on low-end Android devices
 2. Strong community engagement during beta via Discord and Instagram
 3. Cultural cosmetic bundles saw high click-through and player interest
 4. Maintained a fast, agile development loop with a small, focused team
 
-⚠️** What Didn't Work**
+⚠️**What Didn't Work**
 1. Organic growth was slower than expected post-launch
 2. Retention dropped significantly after the first week
 3. Monetization didn't scale beyond early adopters
@@ -60,7 +60,7 @@ After launch, the data told a clear story:
 3. Early retention signals pointed to weak product-market fit
 4. Rather than burning resources chasing uncertain traction, the team chose to sunset deliberately — a decision made from data, not emotion.
 
-🎓** Key Learnings**
+🎓**Key Learnings**
 1. Timing and go-to-market channels matter as much as game quality
 2. Cultural alignment boosts engagement, but retention hinges on core mechanics
 3. Low-end device optimization must be a design constraint from day one
