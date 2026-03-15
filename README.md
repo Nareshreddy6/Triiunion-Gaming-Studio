@@ -4,21 +4,26 @@ Led end-to-end product lifecycle  user research, persona definition, MVP scoping
 ------------------------------- x ------------------------------------------x ------------------------------- x ------------------------------------------x 
 
 🎮 **Triiunion Gaming Studio**
+
 A culturally localized, real-time multiplayer PvP mobile game built for Indian audiences — shipped by a lean team, and sunset post-launch after honest assessment of traction and market fit.
 
 🧠**Overview**
+
 Indian mobile gamers are underserved by global titles that feel culturally disconnected and perform poorly on low-end devices. Triiunion Gaming Studio set out to change that — building a real-time PvP action game tailored to local themes, local hardware, and local moments.
 
 Despite strong execution and a passionate beta community, post-launch data revealed challenges with retention and organic growth. The team made the deliberate decision to sunset the game and document the learnings.
 
 🚀 **The Problem**
-Challenge	Impact
-Global games feel culturally disconnected for Indian players	Low engagement, poor resonance
-Low-end Android devices struggle with real-time gameplay	High churn due to performance issues
-No localized characters, cosmetics, or monetization	Players don't see themselves in the game
-Retention remains a major gap in the Indian mobile gaming ecosystem	High DAU drop-off after first week
+
+**Challenge	Impact**
+
+1. Global games feel culturally disconnected for Indian players	Low engagement, poor resonance
+2. Low-end Android devices struggle with real-time gameplay	High churn due to performance issues
+3. No localized characters, cosmetics, or monetization	Players don't see themselves in the game
+4. Retention remains a major gap in the Indian mobile gaming ecosystem	High DAU drop-off after first week
 
 🧪 **What We Built**
+
 Game Concept
 Real-time PvP action game with short-session combat designed for India's usage patterns
 Culturally themed characters, maps, and seasonal events
@@ -69,6 +74,7 @@ After launch, the data told a clear story:
 5. Knowing when to pivot or shut down is a strength, not a failure
 
 🏷️ **Tags**
+
 Mobile Gaming · PvP · Android · Real-time Multiplayer · India · Product Management · Go-to-Market · Community Building · Monetization · Sunset
 
 **Built with a lean team. Shipped with intention. Sunset with clarity.**
